@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Secret</string>
+    <string name="phone">phone</string>
+    <string name="get_code">Get Code</string>
+    <string name="login">Login</string>
+    <string name="code">Code</string>
+    <string name="publish_message">Publish</string>
+    <string name="failed_to_get_code">Failed to Get Code</string>
+    <string name="succeeded_to_get_code">Succeded to get code , please check your message.</string>
+    <string name="connecting">Connecting</string>
+    <string name="phone_num_cannot_be_empty">Phone number can\'t be empty</string>
+    <string name="comment_content_cannot_be_empty">Comment content can\'t be empty</string>
+    <string name="message_content_cannot_be_empty">Message content can\'t be empty</string>
+    <string name="code_can_not_be_empty">Code can\'t be empty</string>
+    <string name="fail_to_get_code">Fail to get code</string>
+    <string name="fail_to_login">Fail to login,please try later</string>
+    <string name="fail_to_load_timeline_data">Fail to load messages,please try later</string>
+    <string name="fail_to_pub_comment">Fail to publish comment,please try later</string>
+    <string name="fail_to_get_comment">Fail to get comments,please try later</string>
+    <string name="fail_to_publish">Fail to publish message,please try later</string>
+    <string name="suc_to_get_code">Success to get code,please check your short message</string>
+    <string name="suc_to_publish">Success to publish message</string>
+
+    <string name="connecting_to_server">Connecting to server,please wait</string>
+    <string name="publish">publish</string>
+    <string name="phone_number_cannot_be_empty">The phone number cannot be empty</string>
+
+</resources>
