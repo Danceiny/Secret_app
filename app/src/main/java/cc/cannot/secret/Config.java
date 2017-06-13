@@ -10,7 +10,7 @@ import android.content.SharedPreferences;
 public class Config {
     public static final String APP_ID = "cc.cannot.secret";
     public static final String CHARSET = "utf-8";
-    public static final String SERVER_URL = "127.0.0.1:8080/secret/api.jsp";
+    public static final String SERVER_URL = "192.168.136.2:3333/secret/api/v1/";
 
     /* ----------key begin ----------- */
     public static final String KEY_TOKEN = "token";

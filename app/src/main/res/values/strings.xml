@@ -24,5 +24,6 @@
     <string name="connecting_to_server">Connecting to server,please wait</string>
     <string name="publish">publish</string>
     <string name="phone_number_cannot_be_empty">The phone number cannot be empty</string>
+    <string name="comment_content_can_not_be_empty">The Comment content cannot be empty</string>
 
 </resources>
